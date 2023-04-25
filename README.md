@@ -1,6 +1,6 @@
 # GoF Design Patterns
 
-Список посилань на readme файли з прикладам де я стикався з даним паттерном, або приклади з opensource бібліотек чи використання їх реалізації.
+Список посилань на readme файли з прикладами використання різних паттернів з мого досвіду або знайдені в бібліотеках власноруч чи за допомогою ChatGPT.
 
 ## Creational Design Patterns:
 - [Factory Method](https://github.com/BudnikOleksii/patterns-in-opensource/blob/main/creational/factory-method.md)
